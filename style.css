@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    text-align: center;
+    margin-top: 30px;
+}
+table{
+    margin: auto;
+    margin-top: 10px;
+    border-spacing: 0.5rem;
+    border-radius: 50px;
+    
+}
+input{
+    font-size: 30px;
+    border-radius: 10px;
+}
+button{
+    font-size: 25px;
+    background-color: #090909;
+    width: 80px;
+    color: aliceblue;
+    width:  85px;
+    border-radius: 30px;
+}
+.calculator{
+    display: inline-block;
+    border-radius: 20px;
+    background-color: #E39774;
+
+}
+body{
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thethinkingcap.com.au%2Fshould-i-do-standard-maths-or-advanced-maths%2F&psig=AOvVaw0tdNp0hXbbWsQBCw3rL4Xk&ust=1723742904250000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCS1rGB9YcDFQAAAAAdAAAAABAE)
+}
+    
